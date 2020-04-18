@@ -35,7 +35,7 @@
 	    <linkfile dest="Kconfig" src="Kconfig"/>
 	    <linkfile dest="configs" src="master-configs"/>
 	    <linkfile dest="apps" src="apps"/>
-	    <linkfile dest="libs/libsel4" src="../../kernel/libsel4"/>
+	    <linkfile dest="libs/libsel4" src="kernel/libsel4"/>
 	    <linkfile dest="libs/libsel4benchsupport" src="libsel4benchsupport"/>
 	  </project>
 	  <project name="util_libs" path="projects/util_libs" revision="88119c8c2a52082d5c809e828fda45162245e7fb" >
